@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyObstacle
+  - Coin
+  - Obstacle
+  - Wall
+  - HighVine
+  - TreeStump
+  - Vine
+  - Stem
+  - Piranha
+  - PlantGroup
+  - BackpackGroup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1950445289
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2338817545
+    locked: 0
+  - name: Coin
+    uniqueID: 2844578275
+    locked: 0
+  - name: Player
+    uniqueID: 675711243
+    locked: 0
+  - name: Tree
+    uniqueID: 2083396251
+    locked: 0
+  - name: Grass
+    uniqueID: 3423817893
+    locked: 0
